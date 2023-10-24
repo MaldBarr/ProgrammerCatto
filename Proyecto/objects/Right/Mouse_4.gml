@@ -3,4 +3,4 @@
 
 Martin.sprite_index = MartinDanyo;
 
-room = Mundo1;
+room = Mundo2;
