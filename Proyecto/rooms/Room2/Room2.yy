@@ -21,11 +21,15 @@
     {"name":"inst_4E766462","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_53F5B7BF","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_3F0EBE41","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_42ADBE13","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_7B73220E","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vidas","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F0EBE41","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Lifes","path":"objects/Lifes/Lifes.yy",},"properties":[],"rotation":0.0,"scaleX":0.6952381,"scaleY":0.6952381,"x":32.0,"y":-96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_42ADBE13","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Player","path":"objects/Player/Player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1600.0,"y":448.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B73220E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":2.5,"scaleY":1.0,"x":1616.0,"y":544.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"answer_wrong","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5D6686C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_5D6686C2","path":"rooms/Room/Room.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Wrong","path":"objects/Wrong/Wrong.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":2.0,"x":96.0,"y":672.0,},

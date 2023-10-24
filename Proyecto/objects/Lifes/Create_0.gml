@@ -1,4 +1,0 @@
-liveCounter = 3;
-
-
-

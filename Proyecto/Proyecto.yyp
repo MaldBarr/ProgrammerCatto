@@ -41,7 +41,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"Mundo1","path":"rooms/Mundo1/Mundo1.yy",},},
@@ -87,6 +87,7 @@
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"obj_ans2","path":"objects/obj_ans2/obj_ans2.yy",},},
+    {"id":{"name":"hitboxGround","path":"sprites/hitboxGround/hitboxGround.yy",},},
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"NBPregunta1","path":"objects/NBPregunta1/NBPregunta1.yy",},},
     {"id":{"name":"spr_Life3","path":"sprites/spr_Life3/spr_Life3.yy",},},

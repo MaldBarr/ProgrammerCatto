@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "AssetsWorld",
-    "path": "folders/Sprites/AssetsWorld.yy",
+    "name": "Mundo",
+    "path": "folders/Objects/Mundo.yy",
   },
   "parentObjectId": null,
   "persistent": false,

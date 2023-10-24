@@ -188,7 +188,6 @@
     {"amount":-1,"first":121,"second":46,},
   ],
   "last": 0,
-  "lineHeight": 18,
   "maintainGms1Font": false,
   "parent": {
     "name": "Notes",
@@ -201,7 +200,6 @@
   ],
   "regenerateBitmap": false,
   "sampleText": "¿Cuál es la diferencia entre una variable y un puntero en C?\r\n\r\n1. Una variable solo puede contener números enteros, \r\nmientras que un puntero puede almacenar cualquier tipo de dato.\r\n\r\n2. Una variable almacena datos directamente, \r\nmientras que un puntero almacena la dirección de memoria de una variable.\r\n\r\n3. Una variable y un puntero son conceptos idénticos en C \r\ny se utilizan indistintamente.\r\n\r\n4. Una variable se utiliza para imprimir resultados en pantalla, \r\nmientras que un puntero se utiliza para cálculos matemáticos.",
-  "sdfSpread": 8,
   "size": 12.0,
   "styleName": "Regular",
   "textureGroupId": {
@@ -209,5 +207,4 @@
     "path": "texturegroups/Default",
   },
   "TTFName": "",
-  "usesSDF": false,
 }
