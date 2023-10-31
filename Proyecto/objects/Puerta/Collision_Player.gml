@@ -36,5 +36,5 @@ if (room_number == 8 && global.arrayRooms[room_number-1] == 0){
 	global.arrayRooms[room_number-1] = 1
 }
 else{
-	room_number = irandom_range(1,4);
+	room_number = irandom_range(1,8);
 }
