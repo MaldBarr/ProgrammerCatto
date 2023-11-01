@@ -26,6 +26,7 @@
     {"name":"inst_64FE8507","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7E81080A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_23FB0D47","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_21982CC7","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -42,6 +43,7 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Pregunta1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D1993C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"NBPregunta1","path":"objects/NBPregunta1/NBPregunta1.yy",},"properties":[],"rotation":0.0,"scaleX":0.968,"scaleY":0.968,"x":88.0,"y":48.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_21982CC7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"FeedbackRoom1","path":"objects/FeedbackRoom1/FeedbackRoom1.yy",},"properties":[],"rotation":0.0,"scaleX":0.424,"scaleY":0.488,"x":960.0,"y":544.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"answer_right","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78E6227D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Right","path":"objects/Right/Right.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":2.0,"x":224.0,"y":672.0,},

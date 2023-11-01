@@ -2,6 +2,9 @@
 // You can write your code in this editor
 
 Martin.sprite_index = MartinDanyo;
+global.points += 100;
+audio_play_sound(Correcto,10,false);
+
 
 global.contMundos= global.contMundos +1;
 
@@ -25,6 +28,7 @@ if (global.contMundos = 6){
 	if (global.liveCounter < 3) {
 		global.liveCounter += 1;
 	}
+	global.arrayRooms = [0,0,0,0,0,0,0,0];
 }
 if (global.contMundos = 7){
 	room = Mundo7;

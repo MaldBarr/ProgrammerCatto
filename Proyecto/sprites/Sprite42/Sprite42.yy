@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite42",
-  "bbox_bottom": 695,
+  "bbox_bottom": 668,
   "bbox_left": 25,
   "bbox_right": 934,
   "bbox_top": 72,
