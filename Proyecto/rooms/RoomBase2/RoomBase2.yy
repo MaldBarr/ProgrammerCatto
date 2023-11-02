@@ -19,11 +19,13 @@
     {"name":"inst_1DB00D4B","path":"rooms/RoomBase2/RoomBase2.yy",},
     {"name":"inst_409AC687","path":"rooms/RoomBase2/RoomBase2.yy",},
     {"name":"inst_45BF42D6","path":"rooms/RoomBase2/RoomBase2.yy",},
+    {"name":"inst_73E16C2D","path":"rooms/RoomBase2/RoomBase2.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Cat","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57ED0960","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_57ED0960","path":"rooms/Room/Room.yy",},"inheritItemSettings":true,"isDnd":false,"objectId":{"name":"Gato","path":"objects/Gato/Gato.yy",},"properties":[],"rotation":0.0,"scaleX":0.7866667,"scaleY":0.84,"x":-64.0,"y":640.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73E16C2D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Puntos2","path":"objects/Puntos2/Puntos2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vidas","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2C97B2AC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_2C97B2AC","path":"rooms/Room/Room.yy",},"inheritItemSettings":true,"isDnd":false,"objectId":{"name":"Lifes","path":"objects/Lifes/Lifes.yy",},"properties":[],"rotation":0.0,"scaleX":0.6952381,"scaleY":0.6952381,"x":32.0,"y":-96.0,},

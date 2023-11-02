@@ -24,6 +24,7 @@
     {"name":"inst_42ADBE13","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_7B73220E","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_6F949D71","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_3B5D1ED4","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -31,6 +32,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E766462","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"NBPregunta2","path":"objects/NBPregunta2/NBPregunta2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6F949D71","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"FeedbackRoom2","path":"objects/FeedbackRoom2/FeedbackRoom2.yy",},"properties":[],"rotation":0.0,"scaleX":0.456,"scaleY":0.48799998,"x":960.0,"y":544.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57ED0960","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_57ED0960","path":"rooms/Room/Room.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Gato","path":"objects/Gato/Gato.yy",},"properties":[],"rotation":0.0,"scaleX":0.7866667,"scaleY":0.84,"x":-96.0,"y":512.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B5D1ED4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Puntos","path":"objects/Puntos/Puntos.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vidas","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F0EBE41","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Lifes","path":"objects/Lifes/Lifes.yy",},"properties":[],"rotation":0.0,"scaleX":0.6952381,"scaleY":0.6952381,"x":32.0,"y":-96.0,},
