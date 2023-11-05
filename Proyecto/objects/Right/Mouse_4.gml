@@ -4,7 +4,7 @@
 Martin.sprite_index = MartinDanyo;
 global.points += 100;
 audio_play_sound(Correcto,10,false);
-
+global.Correctas += 1;
 
 global.contMundos= global.contMundos +1;
 

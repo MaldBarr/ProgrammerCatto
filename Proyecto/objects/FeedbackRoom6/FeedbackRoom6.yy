@@ -30,5 +30,5 @@
     "path": "sprites/Feed7/Feed7.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

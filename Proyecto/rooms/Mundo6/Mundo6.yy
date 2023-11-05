@@ -27,6 +27,7 @@
     {"name":"inst_10485B17","path":"rooms/Mundo6/Mundo6.yy",},
     {"name":"inst_17D836BD","path":"rooms/Mundo6/Mundo6.yy",},
     {"name":"inst_6FE00271","path":"rooms/Mundo6/Mundo6.yy",},
+    {"name":"inst_15119B0A","path":"rooms/Mundo6/Mundo6.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -35,6 +36,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10485B17","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Puntos2","path":"objects/Puntos2/Puntos2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17D836BD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":0.0,"scaleX":0.23636363,"scaleY":0.08571429,"x":452.0,"y":684.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6FE00271","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":0.0,"scaleX":0.3090909,"scaleY":0.08571429,"x":656.0,"y":685.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15119B0A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":0.0,"scaleX":0.5272727,"scaleY":0.08571429,"x":921.0,"y":686.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"PlataformasMundo","depth":100,"effectEnabled":true,"effectType":"_filter_tintfilter","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7890E39C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":22.0,"scaleY":1.0,"x":688.0,"y":752.0,},
