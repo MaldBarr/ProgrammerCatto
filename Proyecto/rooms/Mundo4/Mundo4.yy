@@ -22,11 +22,16 @@
     {"name":"inst_699E42A2","path":"rooms/Mundo4/Mundo4.yy",},
     {"name":"inst_3A094D63","path":"rooms/Mundo4/Mundo4.yy",},
     {"name":"inst_4665E3DC","path":"rooms/Mundo4/Mundo4.yy",},
+    {"name":"inst_6DB49192","path":"rooms/Mundo4/Mundo4.yy",},
+    {"name":"inst_54E2DDE8","path":"rooms/Mundo4/Mundo4.yy",},
+    {"name":"inst_203793BE","path":"rooms/Mundo4/Mundo4.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Puntos","depth":0,"effectEnabled":true,"effectType":"_filter_outline","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6DB49192","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":{"name":"inst_6DB49192","path":"rooms/Mundo1/Mundo1.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":null,"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_54E2DDE8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":270.0,"scaleX":0.16363636,"scaleY":0.08571429,"x":64.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_203793BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":0.0,"scaleX":0.3454545,"scaleY":0.08571429,"x":992.0,"y":640.0,},
       ],"layers":[],"properties":[
         {"name":"g_OutlineColour","type":1,"value":"#FF000000",},
         {"name":"g_OutlineRadius","type":0,"value":"2",},

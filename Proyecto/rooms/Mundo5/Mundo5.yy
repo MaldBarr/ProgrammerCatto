@@ -23,11 +23,14 @@
     {"name":"inst_3A094D63_1","path":"rooms/Mundo5/Mundo5.yy",},
     {"name":"inst_D1A03E8","path":"rooms/Mundo5/Mundo5.yy",},
     {"name":"inst_2D5EF156","path":"rooms/Mundo5/Mundo5.yy",},
+    {"name":"inst_6DB49192","path":"rooms/Mundo5/Mundo5.yy",},
+    {"name":"inst_28286D75","path":"rooms/Mundo5/Mundo5.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Puntos","depth":0,"effectEnabled":true,"effectType":"_filter_outline","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6DB49192","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":{"name":"inst_6DB49192","path":"rooms/Mundo1/Mundo1.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":null,"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_28286D75","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Pinchos","path":"objects/Pinchos/Pinchos.yy",},"properties":[],"rotation":270.0,"scaleX":0.05454546,"scaleY":0.08571429,"x":422.0,"y":399.0,},
       ],"layers":[],"properties":[
         {"name":"g_OutlineColour","type":1,"value":"#FF000000",},
         {"name":"g_OutlineRadius","type":0,"value":"2",},
