@@ -46,7 +46,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.106",
   },
   "resources": [
     {"id":{"name":"Mundo1","path":"rooms/Mundo1/Mundo1.yy",},},
@@ -157,6 +157,7 @@
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"BGWorld2","path":"sprites/BGWorld2/BGWorld2.yy",},},
+    {"id":{"name":"Mundo12","path":"rooms/Mundo12/Mundo12.yy",},},
     {"id":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"id":{"name":"Feed14","path":"sprites/Feed14/Feed14.yy",},},
     {"id":{"name":"Feed17","path":"sprites/Feed17/Feed17.yy",},},
@@ -229,6 +230,7 @@
     {"id":{"name":"Mundo3","path":"rooms/Mundo3/Mundo3.yy",},},
     {"id":{"name":"Sprite54","path":"sprites/Sprite54/Sprite54.yy",},},
     {"id":{"name":"Room16","path":"rooms/Room16/Room16.yy",},},
+    {"id":{"name":"Mundo13","path":"rooms/Mundo13/Mundo13.yy",},},
     {"id":{"name":"NMPregunta5","path":"objects/NMPregunta5/NMPregunta5.yy",},},
     {"id":{"name":"QuestionSend3","path":"objects/QuestionSend3/QuestionSend3.yy",},},
     {"id":{"name":"Sprite82","path":"sprites/Sprite82/Sprite82.yy",},},
@@ -296,7 +298,10 @@
     {"roomId":{"name":"Room19","path":"rooms/Room19/Room19.yy",},},
     {"roomId":{"name":"Room20","path":"rooms/Room20/Room20.yy",},},
     {"roomId":{"name":"Room21","path":"rooms/Room21/Room21.yy",},},
+    {"roomId":{"name":"Mundo12","path":"rooms/Mundo12/Mundo12.yy",},},
+    {"roomId":{"name":"Mundo13","path":"rooms/Mundo13/Mundo13.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
