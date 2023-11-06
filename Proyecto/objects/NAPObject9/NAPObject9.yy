@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "FeedbackRoom1",
+  "name": "NAPObject9",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Feedback",
-    "path": "folders/Objects/Feedback.yy",
+    "name": "Pointers",
+    "path": "folders/Objects/Questions/Pointers.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Feed1",
-    "path": "sprites/Feed1/Feed1.yy",
+    "name": "NAPSprite",
+    "path": "sprites/NAPSprite/NAPSprite.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "FeedbackRoom1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "QuestionAmper3",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Feedback",
-    "path": "folders/Objects/Feedback.yy",
+    "name": "Pointers",
+    "path": "folders/Objects/Questions/Pointers.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Feed1",
-    "path": "sprites/Feed1/Feed1.yy",
+    "name": "PointerAmper",
+    "path": "sprites/PointerAmper/PointerAmper.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

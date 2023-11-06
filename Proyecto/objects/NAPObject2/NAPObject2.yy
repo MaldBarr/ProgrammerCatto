@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "QuestionSend",
+  "name": "NAPObject2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite74",
-    "path": "sprites/Sprite74/Sprite74.yy",
+    "name": "NAPSprite",
+    "path": "sprites/NAPSprite/NAPSprite.yy",
   },
   "spriteMaskId": null,
   "visible": true,
