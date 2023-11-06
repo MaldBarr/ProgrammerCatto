@@ -34,7 +34,7 @@ else if (room_number == 15 && global.arrayRooms[room_number-9] == 0){
 	global.arrayRooms[room_number-9] = 1
 }
 else if (room_number == 16 && global.arrayRooms[room_number-9] == 0){
-	room = Mundo6
+	room = Room16
 	global.arrayRooms[room_number-9] = 1
 }
 else{
