@@ -26,6 +26,8 @@
     {"name":"inst_7CE147FB","path":"rooms/Mundo7/Mundo7.yy",},
     {"name":"inst_66CEAFB7","path":"rooms/Mundo7/Mundo7.yy",},
     {"name":"inst_345A4CBB","path":"rooms/Mundo7/Mundo7.yy",},
+    {"name":"inst_EF06C7C","path":"rooms/Mundo7/Mundo7.yy",},
+    {"name":"inst_FE75EB5","path":"rooms/Mundo7/Mundo7.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -51,6 +53,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F810A54","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_5F810A54","path":"rooms/Mundo6/Mundo6.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3603BADD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_3603BADD","path":"rooms/Mundo6/Mundo6.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7CE147FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_7CE147FB","path":"rooms/Mundo6/Mundo6.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_EF06C7C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":8.5,"x":-32.0,"y":464.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_FE75EB5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Ground","path":"objects/Ground/Ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":11.0,"x":1376.0,"y":384.0,},
       ],"layers":[],"properties":[
         {"name":"g_TintCol","type":1,"value":"#FF828299",},
       ],"userdefinedDepth":false,"visible":true,},

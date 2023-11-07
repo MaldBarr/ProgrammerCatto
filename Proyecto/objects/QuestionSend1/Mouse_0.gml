@@ -1,20 +1,17 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-if (countClick0=2){
-	if (countClick1=0){
-		if (countClick2=2){	
-			if (countClick4=0){	
+if (NAPObject0.countClick0==1){
+	if (NAPObject1.countClick0==0){
+		if (NAPObject2.countClick0==1){	
+			if (NAPObject3.countClick0==0){	
 
 				Martin.sprite_index = MartinDanyo;
-				global.points += 100;
+				global.points += 200;
 				audio_play_sound(Correcto,10,false);
 				global.Correctas += 1;
 				global.contMundos= global.contMundos +1;
 				
-				if (global.contMundos = 11){
-					room=Mundo11;
-				}
 				if (global.contMundos = 12){
 					room=Mundo12;
 				}
@@ -25,27 +22,13 @@ if (countClick0=2){
 					room=Final;
 				}
 			}
-			else{
-				global.liveCounter -= 1;
-				global.points -= 50;
-				audio_play_sound(Incorrecto,10,false);
-			}
-		}
-		else{
-			global.liveCounter -= 1;
-			global.points -= 50;
-			audio_play_sound(Incorrecto,10,false);
 		}
 	}
-	else{
-		global.liveCounter -= 1;
-		global.points -= 50;
-		audio_play_sound(Incorrecto,10,false);
-	}
-
+	seEquivoco = 1
 }
-else{
+
+if (seEquivoco == 1){
 	global.liveCounter -= 1;
-	global.points -= 50;
+	global.points -= 10;
 	audio_play_sound(Incorrecto,10,false);
 }

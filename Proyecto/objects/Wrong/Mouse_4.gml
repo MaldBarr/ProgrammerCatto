@@ -29,3 +29,27 @@ if (room == Room7){
 if (room == Room8){
 	FeedbackRoom8.visible = true;
 }
+if (room == Room9){
+	FeedbackRoom9.visible = true;
+}
+if (room == Room10){
+	FeedbackRoom10.visible = true;
+}
+if (room == Room11){
+	FeedbackRoom11.visible = true;
+}
+if (room == Room12){
+	FeedbackRoom12.visible = true;
+}
+if (room == Room13){
+	FeedbackRoom13.visible = true;
+}
+if (room == Room14){
+	FeedbackRoom14.visible = true;
+}
+if (room == Room15){
+	FeedbackRoom15.visible = true;
+}
+if (room == Room16){
+	FeedbackRoom16.visible = true;
+}

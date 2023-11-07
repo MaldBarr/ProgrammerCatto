@@ -42,3 +42,12 @@ if (global.contMundos = 9){
 if (global.contMundos = 10){
 	room = Mundo10;
 }
+
+//Mundo 3
+if (global.contMundos = 11){
+	if (global.liveCounter < 3) {
+		global.liveCounter += 1;
+	}
+	global.arrayRooms = [0,0,0,0,0,0,0,0];
+	room = Mundo11;
+}
