@@ -49,5 +49,5 @@ if (global.contMundos = 11){
 		global.liveCounter += 1;
 	}
 	global.arrayRooms = [0,0,0,0,0,0,0,0];
-	room = Mundo11;
+	room = TutorialMundo3;
 }
