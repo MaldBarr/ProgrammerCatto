@@ -5,7 +5,7 @@ if (NAPObject0.countClick0==1){
 	if (NAPObject1.countClick0==0){
 		if (NAPObject2.countClick0==1){	
 			if (NAPObject3.countClick0==0){	
-
+				seEquivoco = 0;
 				Martin.sprite_index = MartinDanyo;
 				global.points += 200;
 				audio_play_sound(Correcto,10,false);

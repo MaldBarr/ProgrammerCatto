@@ -16,6 +16,7 @@
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Mundo2","order":20,"path":"folders/Rooms/Mundo2.yy",},
     {"name":"Mundo3","order":26,"path":"folders/Rooms/Mundo3.yy",},
+    {"name":"Tutorial","order":34,"path":"folders/Rooms/Tutorial.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
@@ -30,7 +31,6 @@
     {"name":"pointer","order":6,"path":"folders/Sprites/Question/pointer.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Tutorial","order":34,"path":"folders/Rooms/Tutorial.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Mundo1","order":2,"path":"rooms/Mundo1/Mundo1.yy",},
@@ -72,6 +72,7 @@
     {"name":"NBPregunta5","order":5,"path":"objects/NBPregunta5/NBPregunta5.yy",},
     {"name":"Puerta2","order":2,"path":"objects/Puerta2/Puerta2.yy",},
     {"name":"NMPregunta6","order":14,"path":"objects/NMPregunta6/NMPregunta6.yy",},
+    {"name":"Victoria","order":4,"path":"sounds/Victoria/Victoria.yy",},
     {"name":"FeedbackRoom5","order":11,"path":"objects/FeedbackRoom5/FeedbackRoom5.yy",},
     {"name":"SinglePointerSprite","order":12,"path":"sprites/SinglePointerSprite/SinglePointerSprite.yy",},
     {"name":"FeedbackRoom3","order":5,"path":"objects/FeedbackRoom3/FeedbackRoom3.yy",},

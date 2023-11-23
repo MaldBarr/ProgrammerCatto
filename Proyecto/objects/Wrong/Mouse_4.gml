@@ -39,10 +39,10 @@ if (room == Room11){
 	FeedbackRoom11.visible = true;
 }
 if (room == Room12){
-	FeedbackRoom12.visible = true;
+	FeedbackRoom18.visible = true;
 }
 if (room == Room13){
-	FeedbackRoom13.visible = true;
+	FeedbackRoom17.visible = true;
 }
 if (room == Room14){
 	FeedbackRoom14.visible = true;

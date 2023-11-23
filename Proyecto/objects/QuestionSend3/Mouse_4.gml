@@ -10,7 +10,8 @@ if (NAPObject0.countClick0==0){
 						if (NAPObject6.countClick0==3){	
 							if (NAPObject7.countClick0==0){	
 								if (NAPObject8.countClick0==0){	
-									if (NAPObject9.countClick0==0){	
+									if (NAPObject9.countClick0==0){
+										seEquivoco = 0;
 										Martin.sprite_index = MartinDanyo;
 										global.points += 500;
 										audio_play_sound(Correcto,10,false);
@@ -24,6 +25,9 @@ if (NAPObject0.countClick0==0){
 											room=Mundo13;
 										}
 										if (global.contMundos == 14){
+											audio_stop_all();
+											audio_play_sound(Victoria,11,false);
+											
 											room=Final;
 										}
 									}
@@ -37,7 +41,7 @@ if (NAPObject0.countClick0==0){
 	}
 }
 else {
-	seEquivoco += 1
+	seEquivoco = 1
 }
 if (seEquivoco == 1){
 	global.liveCounter -= 1;

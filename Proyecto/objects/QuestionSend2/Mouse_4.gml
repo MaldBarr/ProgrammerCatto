@@ -10,7 +10,8 @@ if (NAPObject0.countClick0==1){
 						if (NAPObject6.countClick0==1){	
 							if (NAPObject7.countClick0==1){	
 								if (NAPObject8.countClick0==1){	
-									if (NAPObject9.countClick0==0){	
+									if (NAPObject9.countClick0==0){
+										seEquivoco = 0;
 										Martin.sprite_index = MartinDanyo;
 										global.points += 500;
 										audio_play_sound(Correcto,10,false);
@@ -37,7 +38,7 @@ if (NAPObject0.countClick0==1){
 	}
 }
 else {
-	seEquivoco += 1
+	seEquivoco = 1
 }
 if (seEquivoco == 1){
 	global.liveCounter -= 1;
