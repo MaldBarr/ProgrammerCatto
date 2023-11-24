@@ -30,17 +30,34 @@ if (NAPObject0.countClick0==0){
 											
 											room=Final;
 										}
+									}else{
+										seEquivoco = 1
 									}
+								}else{
+									seEquivoco = 1
 								}
+							}else{
+								seEquivoco = 1
 							}
+						}else{
+							seEquivoco = 1
 						}
+					}else{
+						seEquivoco = 1
 					}
+				}else{
+					seEquivoco = 1
 				}
+			}else{
+				seEquivoco = 1
 			}
+		}else{
+			seEquivoco = 1
 		}
+	}else{
+		seEquivoco = 1
 	}
-}
-else {
+}else {
 	seEquivoco = 1
 }
 if (seEquivoco == 1){

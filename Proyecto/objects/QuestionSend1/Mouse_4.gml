@@ -21,15 +21,20 @@ if (NAPObject0.countClick0==1){
 				if (global.contMundos = 14){
 					room=Final;
 				}
+			}else{
+				seEquivoco = 1
 			}
+		}else{
+			seEquivoco = 1
 		}
+	}else{
+		seEquivoco = 1
 	}
-}
-else{
+}else{
 	seEquivoco = 1
 }
 
-if (seEquivoco == 1){
+if (seEquivoco = 1){
 	
 	global.liveCounter -= 1;
 	global.points -= 10;
